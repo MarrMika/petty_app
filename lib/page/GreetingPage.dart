@@ -80,7 +80,7 @@ class _GreetingPageState extends State<GreetingPage> {
         leading: Padding(
             padding: EdgeInsets.symmetric(vertical: 10, horizontal: 10),
             child: Image.asset(
-              'assets/logo2.png',
+              'assets/logo.png',
               height: 55,
               width: 55,
             )),
