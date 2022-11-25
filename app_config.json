@@ -1,3 +1,3 @@
 {
-  "audioFileProcessingServiceUrl":"https://apimocha.com/fgo-voice/test"
+  "audioFileProcessingServiceUrl":"https://fastapi-marrmika.cloud.okteto.net/api/predict"
 }
